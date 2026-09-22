@@ -19,7 +19,8 @@ O programa consiste em um sistema de coleta de feedback automático criado para 
 Abaixo estão os registros visuais do código estruturado e do terminal durante a fase de teste:
 
 ### Código Fonte
-<img width="1365" height="714" alt="print_codigo" src="https://github.com/user-attachments/assets/76046525-f9d6-4d02-a328-1d22eb6f0b4e" />
+<img width="1359" height="718" alt="print_codigo" src="https://github.com/user-attachments/assets/05a2214f-f597-45c4-bd3d-094e93636327" />
+
 
 ### Execução do Teste (10 Entrevistados)
 <img width="1364" height="720" alt="print_execucao" src="https://github.com/user-attachments/assets/491d065e-64ff-4aab-a148-283f09708d83" />
