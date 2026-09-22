@@ -7,8 +7,8 @@ ruim = 0
 
 print("--- INICIANDO PESQUISA ---")
 
-# Repete 50 vezes para o teste inicial 
-for i in range(1, 51):
+# Repete 10 vezes para o teste inicial 
+for i in range(1, 11):
     print("-----------------------------------")
     print("Entrevistado numero:", i)
     
