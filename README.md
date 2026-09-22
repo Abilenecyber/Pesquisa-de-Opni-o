@@ -19,11 +19,9 @@ O programa consiste em um sistema de coleta de feedback automático criado para 
 Abaixo estão os registros visuais do código estruturado e do terminal durante a fase de teste:
 
 ### Código Fonte
-*(Substitua a linha abaixo pelo caminho do seu print do código ou apague esta seção após anexar no GitHub)*
 ![Código Python](./prints/print_codigo.png)
 
-### Execução do Teste (50 Entrevistados)
-*(Substitua a linha abaixo pelo caminho do seu print da execução ou apague esta seção após anexar no GitHub)*
+### Execução do Teste (10 Entrevistados)
 ![Execução no Terminal](./prints/print_execucao.png)
 
 ---
